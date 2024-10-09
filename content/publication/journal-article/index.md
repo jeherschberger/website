@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Impacts of ramet density and herbivory on floral volatile emissions and seed production in Solidago altissima"
 authors:
 - admin
-- Robert Ford
+- Lukasz Ciesla
+- Christopher Stieha
+- Monica Kersch-Becker
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2024-10-08T00:00:00Z"
+doi: "https://doi.org/10.1002/ajb2.16414"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-10-08T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +20,19 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "American Journal of Botany"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "Plants produce an array of floral olfactory and visual cues to attract pollinators, including volatile organic compounds (VOC), which mediate plant–pollinator interactions and may be influenced by herbivory and neighboring plants. Consequently, these factors may affect plant fitness by disrupting pollination. However, most evidence comes from controlled experiments, limiting our understanding of how VOCs function in natural populations. This study investigated how herbivory and conspecific ramet density influence floral VOC profile, pollination, and seed production in a naturally occurring population of Solidago altissima. We recorded leaf herbivory and ramet density surrounding one focal ramet in 1-m2 plots. We collected VOCs from the floral headspace and measured ovary fertilization as a proxy for pollination success and the number of seeds produced by the focal ramet. Our findings revealed interactive effects between ramet density and herbivory on floral VOC emission, richness, and diversity. Specifically, at lower ramet densities, herbivory did not affect floral volatile emissions. However, in highly dense stands, herbivory suppressed floral volatile emissions. Despite these changes, floral volatiles did not affect pollination and the number of seeds in S. altissima. Our field-based findings underscore the importance of understanding the complex responses of floral VOCs to environmental stressors and their contributions to plant reproduction within natural communities. Our results suggest that while herbivory and ramet density influence floral scent, these changes do not affect reproduction in our study. Ultimately, generalist-pollinated plants like S. altissima might not rely heavily on chemical signaling during pollination."
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: false
-
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://bsapubs.onlinelibrary.wiley.com/doi/epdf/10.1002/ajb2.16414
+url_code: 'https://doi.org/10.6084/m9.figshare.26035792'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -43,33 +41,24 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+# To use, add an image named `featured.jpg/png` to your page's folder.
+#image:
+  #Placement: 1
+  #focal_point: 'center'
+  #preview_only: false
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
