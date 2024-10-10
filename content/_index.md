@@ -63,6 +63,7 @@ sections:
         exclude_featured: false
     design:
       view: card
+      columns: 2
   - block: collection
     id: talks
     content:
