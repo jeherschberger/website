@@ -23,7 +23,8 @@ publishDate: "2024-10-08T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: [article-journal]
+publication_types: 
+  - article-journal
 
 # Publication name and optional abbreviated publication name.
 publication: "American Journal of Botany"
@@ -33,5 +34,4 @@ abstract: "Plants produce an array of floral olfactory and visual cues to attrac
 # Summary. An optional shortened abstract.
 summary: Our results suggest that while herbivory and ramet density influence floral scent, these changes do not affect reproduction in our study. Ultimately, generalist-pollinated plants like S. altissima might not rely heavily on chemical signaling during pollination.
 
-
-
+---
