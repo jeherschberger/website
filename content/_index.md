@@ -40,7 +40,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: card
+      view: citation
       columns: 2
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
