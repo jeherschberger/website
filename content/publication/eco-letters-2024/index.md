@@ -11,7 +11,7 @@ authors:
 - Gustavo Q. Romero
 - Monica Kersch-Becker
 date: "2024-10-02T00:00:00Z"
-doi: "https://doi.org/10.1111/ele.14499"
+url_doi: "https://doi.org/10.1111/ele.14499"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-10-08T00:00:00Z"
@@ -30,23 +30,6 @@ abstract: Shelter-building insects are important ecosystem engineers, playing cr
 # Summary. An optional shortened abstract.
 summary: These findings demonstrate the critical role of leaf shelters in structuring both arthropod and microbial communities through altered microhabitats and species interactions.
 
-# links:
-# - name: ""
-#   url: ""
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.14499
-url_code: 
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-#image:
-  #Placement: 1
-  #focal_point: 'center'
-  #preview_only: false
 
 ---
