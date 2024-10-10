@@ -31,12 +31,14 @@ summary: Our results suggest that while herbivory and ramet density influence fl
 button:
 # - name: ""
 #   url: ""
-  - text: "PDF"
-    url: https://bsapubs.onlinelibrary.wiley.com/doi/epdf/10.1002/ajb2.16414
-  - text: "Code"
-    url: 'https://doi.org/10.6084/m9.figshare.26035792'
-  - text: "DOI"
-    url: "https://doi.org/10.1002/ajb2.16414"
+  text: "PDF"
+  url: https://bsapubs.onlinelibrary.wiley.com/doi/epdf/10.1002/ajb2.16414
+button:
+  text: "Code"
+  url: 'https://doi.org/10.6084/m9.figshare.26035792'
+button:
+  text: "DOI"
+  url: "https://doi.org/10.1002/ajb2.16414"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
