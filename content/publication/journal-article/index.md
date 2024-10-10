@@ -31,7 +31,7 @@ summary: Our results suggest that while herbivory and ramet density influence fl
 links:
 # - name: ""
 #   url: ""
-  - PDF
+  - name: "PDF"
     url: https://bsapubs.onlinelibrary.wiley.com/doi/epdf/10.1002/ajb2.16414
 url_code: 'https://doi.org/10.6084/m9.figshare.26035792'
 
