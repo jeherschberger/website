@@ -28,7 +28,7 @@ abstract: "Plants produce an array of floral olfactory and visual cues to attrac
 # Summary. An optional shortened abstract.
 summary: Our results suggest that while herbivory and ramet density influence floral scent, these changes do not affect reproduction in our study. Ultimately, generalist-pollinated plants like S. altissima might not rely heavily on chemical signaling during pollination.
 
-buttons:
+button:
 # - name: ""
 #   url: ""
   - text: "PDF"
