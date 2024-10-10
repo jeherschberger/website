@@ -11,7 +11,9 @@ authors:
 - Gustavo Q. Romero
 - Monica Kersch-Becker
 date: "2024-10-02T00:00:00Z"
-doi: "https://doi.org/10.1111/ele.14499"
+button
+  url: "https://doi.org/10.1111/ele.14499"
+  text: DOI
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-10-08T00:00:00Z"
