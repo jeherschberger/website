@@ -62,7 +62,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: card
+      view: article-grid
       columns: 2
   - block: collection
     id: talks
