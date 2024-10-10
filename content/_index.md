@@ -63,7 +63,7 @@ sections:
         exclude_featured: false
     design:
       view: compact
-      columns: 2
+      columns: 1
   - block: collection
     id: talks
     content:
