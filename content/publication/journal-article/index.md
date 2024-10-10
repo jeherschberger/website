@@ -35,7 +35,7 @@ buttons:
     url: https://bsapubs.onlinelibrary.wiley.com/doi/epdf/10.1002/ajb2.16414
   - text: "Code"
     url: 'https://doi.org/10.6084/m9.figshare.26035792'
-    - text: "DOI"
+  - text: "DOI"
     url: "https://doi.org/10.1002/ajb2.16414"
 
 # Featured image
