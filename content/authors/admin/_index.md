@@ -126,4 +126,4 @@ languages:
 
 ## About Me
 
-I am a current Ph.D candidate and graduate assistant at the University of Florida with Dr. Phil Hahn. I am investigating pollinator community changes in relation to herbivore induced plant chemistry changes and how plant chemical defense production correlates with plant tolerance in relation to insect herbivory.
+I am a current Ph.D candidate and graduate assistant at the University of Florida with Dr. Phil Hahn. I investigate factors influencing biotic interactions (herbivores and pollinators) across a latitudinal gradient.
