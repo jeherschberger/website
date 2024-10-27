@@ -1,12 +1,10 @@
 ---
-title: R-ecology
-cms_exclude: true
+title: R-tips
 
-# View.
-view: landing
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
 ---
+
+👋 Welcome to the demo of the Hugo Blox Documentation template!
+
+<!--more-->
+
+This site is a demo of the Hugo Blox Documentation theme. For the full documentation on how to use this template, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
