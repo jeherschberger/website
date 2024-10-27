@@ -1,6 +1,7 @@
 ---
 linkTitle: R-ecology
 title: Introduction
+toc: true
 ---
 
 Welcome to documentation of R usage as an ecologist.
