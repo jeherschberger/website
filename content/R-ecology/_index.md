@@ -1,5 +1,5 @@
 ---
-linkTitle: Documentation
+linkTitle: R-ecology
 title: Introduction
 ---
 
