@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'R-ecology'
 date: 2024-10-27
 type: landing
 
