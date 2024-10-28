@@ -5,6 +5,8 @@ weight: 3
 type: book
 ---
 
+<!--more-->
+
 ## Managing github credentals in R-studio.
 Github no longer supports using a password to interact with repositories. You will get the error code below if you use a password to connect to Github.
 
