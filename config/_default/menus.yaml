@@ -13,6 +13,6 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: E-Coding
+  - name: Eco-Coding
     url: /R-ecology/
     weight: 22
