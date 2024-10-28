@@ -1,6 +1,6 @@
 ---
 linkTitle: Documentation
-title: Tutorials for coding in ecology
+title: Coding in Ecology
 type: book
 date: 2024-10-27
 ---
