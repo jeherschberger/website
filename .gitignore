@@ -9,3 +9,4 @@ go.sum
 go.mod
 website.Rproj
 .hugo_build.lock
+.Rhistory-lmde
