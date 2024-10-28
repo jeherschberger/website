@@ -1,6 +1,6 @@
 ---
 linkTitle: Documentation
-title: R Ecology Tipd
+title: R Ecology Tips
 type: book
 date: 2024-10-27
 ---
