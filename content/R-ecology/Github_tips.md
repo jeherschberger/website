@@ -1,9 +1,9 @@
 ---
-linkTitle: Github
-title: Github
+linkTitle: Github Usage
+title: Github Usage
 type: book
 date: 2024-10-27
-summary: This provides some tips when using Github for ecological code hosting and data analyses.
+summary: Some tips when using Github for ecological code hosting and data analyses.
 ---
 
 ## Managing github credentals in R-studio.
