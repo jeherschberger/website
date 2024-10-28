@@ -8,7 +8,7 @@ date: 2024-10-27
 ## Managing github credentals in R-studio.
 Github no longer supports using a password to interact with repositories. You will get the error code below if you use a password to connect to Github.
 
-```
+```console
 remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
 remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
 fatal: Authentication failed for 'https://github.com/OWNER/REPO.git/'
