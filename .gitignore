@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+public
+resources
+hugo_stats.json
+go.sum
+go.mod
+website.Rproj
+.hugo_build.lock
