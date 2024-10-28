@@ -38,8 +38,8 @@ profiles:
     url: https://github.com/jeherschberger
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jacob-herschberger-m-sc-0533491b5/
-  #- icon: academicons/google-scholar
-    #url: https://scholar.google.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=IBeRuLIAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0649-7412
 
