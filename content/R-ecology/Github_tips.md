@@ -3,7 +3,6 @@ linkTitle: Github
 title: Github
 type: book
 date: 2024-10-27
-draft: true
 ---
 
 ## Managing github credentals in R-studio.
