@@ -21,6 +21,9 @@ Thus, you will need to use the Windows credential manager or you will need to fo
 - R-studio installed
 - Git installed
 
+### Modify your global git settings
+Run `git config --global credential.helper store` in your terminal.
+
 ### Steps to add an access token
 The instructions below were summarized from the following web page: https://happygitwithr.com/https-pat
 1. Run `usethis::create_github_token()` in the R console to generate your access token.
