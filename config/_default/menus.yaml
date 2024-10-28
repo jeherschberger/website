@@ -14,5 +14,5 @@ main:
     url: experience/
     weight: 20
   - name: R-ecology
-    url: R-ecology/
+    url: r-ecology/
     weight: 22
