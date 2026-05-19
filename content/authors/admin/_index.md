@@ -126,4 +126,4 @@ languages:
 
 ## About Me
 
-Current Ph.D candidate and graduate assistant at the University of Florida with Dr. Phil Hahn. He investigates factors influencing biotic interactions (herbivores and pollinators) of plants across a latitudinal gradient.
+Current Ph.D candidate and graduate assistant at the University of Florida with Dr. Phil Hahn. Currently quantifying the outcomes of plant herbivore interactions in relation to a suite of traits across an environmental gradient.
