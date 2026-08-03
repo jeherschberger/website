@@ -50,6 +50,20 @@ interests:
 
 education:
 
+  - area: PhD Plant-Insect Interactions
+    institution: University of Florida
+    date_start: 2022-08-01
+    date_end: 2027-08-15
+    summary: |
+      GPA: 4.0/4.0
+
+      Courses included:
+      - Insect systematics
+      - Insect Ecology
+      - Advanced statistics in R
+      - Spatial analysis
+      - Crop diversity
+
   - area: MSc Plant-Insect Chemical Ecology
     institution: The University of Alabama
     date_start: 2019-01-01
