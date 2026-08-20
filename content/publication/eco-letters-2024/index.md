@@ -30,6 +30,6 @@ abstract: Shelter-building insects are important ecosystem engineers, playing cr
 # Summary. An optional shortened abstract.
 summary: These findings demonstrate the critical role of leaf shelters in structuring both arthropod and microbial communities through altered microhabitats and species interactions.
 
-url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.14499
+url_pdf: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70423
 
 ---
