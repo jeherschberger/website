@@ -53,7 +53,7 @@ education:
   - area: PhD Plant-Insect Interactions
     institution: University of Florida
     date_start: 2022-08-01
-    date_end: 2027-08-15
+    date_end: 2026-08-15
     summary: |
       GPA: 4.0/4.0
 
