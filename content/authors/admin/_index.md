@@ -140,4 +140,4 @@ languages:
 
 ## About Me
 
-Current Ph.D candidate and graduate assistant at the University of Florida with Dr. Phil Hahn. Currently quantifying the outcomes of plant herbivore interactions in relation to a suite of traits across an environmental gradient.
+Recent doctoral graduate living in Thailand with my spouse till June 2026. Part time Teaching assistant at UF. Open to remote work in ecological data analysis.
