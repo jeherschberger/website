@@ -140,4 +140,4 @@ languages:
 
 ## About Me
 
-Recent doctoral graduate living in Thailand with my spouse till June 2026. Part time Teaching assistant at UF. Open to remote work in ecological data analysis.
+Recent doctoral graduate living in Thailand with my spouse till June 2027. Part time Teaching assistant at UF. Open to remote work in ecological data analysis.
