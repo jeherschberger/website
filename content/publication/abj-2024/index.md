@@ -1,5 +1,5 @@
 ---
-title: Impacts of ramet density and herbivory on floral volatile emissions and seed production in *Solidago altissima*
+title: "Impacts of ramet density and herbivory on floral volatile emissions and seed production in <i>Solidago altissima</i>"
 authors:
 - admin
 - Lukasz Ciesla
